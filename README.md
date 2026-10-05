@@ -35,7 +35,7 @@ The dashboard brings key HR metrics together into an interactive visual reportin
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](hr-analytics-dashboard.png)
+![HR Analytics Dashboard](hr-analytics-dashboard.jpg)
 
 ## Project Purpose
 
